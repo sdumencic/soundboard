@@ -1,6 +1,13 @@
 # soundboard
 
-A new Flutter project.
+A simple soundboard Flutter project.
+
+<img src="images/soundboard.png" alt="soundboard" width="300">
+
+## Content
+- [soundboard](#soundboard)
+  - [Content](#content)
+  - [Getting Started](#getting-started)
 
 ## Getting Started
 
